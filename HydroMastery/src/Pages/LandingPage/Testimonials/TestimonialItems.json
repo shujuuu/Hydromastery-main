@@ -1,0 +1,37 @@
+[
+    {
+        "id":1,
+        "testimonialPerson":"Yiannis Poulis",
+        "testimonialPersonTitle":"Ceo & Founder",
+        "testimonialImage":"./assets/img/testimonials/testimonials-1.jpg",
+        "testimonialText":"Efficient and powerful! The platform's comprehensive analytics and support have played a crucial role in my swimming journey. It provides the right balance of data and community engagement, making it an essential tool for any freelance swimmer."
+    },
+    {
+        "id":2,
+        "testimonialPerson":"Sara Wilsson",
+        "testimonialPersonTitle":"Designer",
+        "testimonialImage":"./assets/img/testimonials/testimonials-2.jpg",
+        "testimonialText":"As a design professional, I find the platform's innovative approach and user-friendly interface essential for enhancing my workouts and gaining valuable insights. It's a transformative tool for swimmers dedicated to their goals."
+    },
+    {
+        "id":3,
+        "testimonialPerson":"Jena Karlis",
+        "testimonialPersonTitle": "Professional Swimmer",
+        "testimonialImage":"./assets/img/testimonials/testimonials-3.jpg",
+        "testimonialText": "The platform's comprehensive analytics and support have played a crucial role in my swimming journey. It provides the right balance of data and community engagement, making it an essential tool for any entrepreneur in the swimming world."
+    },
+    {
+        "id":4,
+        "testimonialPerson":"Matt Brandon",
+        "testimonialPersonTitle":"Triathlete",
+        "testimonialImage":"./assets/img/testimonials/testimonials-4.jpg",
+        "testimonialText": "I incorporate the platform into my triathlon training routine, and it has proven to be a game-changer. The ability to import workouts from trackers and access sophisticated analytics has significantly improved my performance."
+    },
+    {
+        "id":5,
+        "testimonialPerson":"John Larson",
+        "testimonialPersonTitle": "Swimming Coach",
+        "testimonialImage":"./assets/img/testimonials/testimonials-5.jpg",
+        "testimonialText": "As a coach, the platform provides me with powerful tools to create and monitor personalized workout plans for my athletes. The visibility offered through dashboards ensures effective communication and progress tracking."
+    }
+]

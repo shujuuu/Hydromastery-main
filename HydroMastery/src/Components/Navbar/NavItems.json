@@ -1,0 +1,44 @@
+[
+    {
+        "Name": "header",
+        "ClassNames": ["nav-link","scrollto"],
+        "Alias": "Home",
+        "Redirect":false
+    }
+    ,{
+        "Name": "about",
+        "ClassNames": ["nav-link","scrollto"],
+        "Alias": "About Us",
+        "Redirect":false
+    }
+    ,{
+        "Name": "services",
+        "ClassNames": ["nav-link","scrollto"],
+        "Alias": "Services",
+        "Redirect":false
+    }
+    ,{
+        "Name": "pricing",
+        "ClassNames": ["nav-link","scrollto"],
+        "Alias": "Pricing",
+        "Redirect":false
+    }
+    ,{
+        "Name": "team",
+        "ClassNames": ["nav-link","scrollto"],
+        "Alias": "Team",
+        "Redirect":false
+    },
+    {
+        "Name": "contact",
+        "ClassNames": ["nav-link scrollto"],
+        "Alias": "Contact",
+        "Redirect":false
+    },
+    {
+        "Name": "blog",
+        "ClassNames": ["nav-link scrollto"],
+        "Alias": "Blog",
+        "Redirect":true
+    }
+]

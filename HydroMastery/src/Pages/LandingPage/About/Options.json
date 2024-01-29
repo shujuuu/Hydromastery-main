@@ -1,0 +1,77 @@
+{
+    "Name":"row",
+    "Title":"BigItem",
+    "ClassName": "row no-gutters",
+    "Header": {
+            "Name":"bigItem",
+            "ClassName": "content col-xl-5 d-flex align-items-stretch",
+            "ChildContainer":{
+                "Name":"container",
+                "ClassNames":"content",
+                "ChildItems":[
+                    {
+                        "Name":"itemWithLink",
+                        "Title":"Your Gateway to Swim Excellence",
+                        "SubTitle":"Welcome to the ultimate platform for swimmers and coaches. Unleash your full potential with personalized workouts and insightful analytics. Elevate your swimming experience with a tool designed to make every stroke count.",
+                        "Link":{
+                            "Name":"aboutus",
+                            "Title":"About us",
+                            "ClassName":"about-btn",
+                            "Href":"#",
+                            "Icon":{
+                                "Name":"nextIcon",
+                                "ClassName":"MdOutlineChevronRight",
+                                "Color": "white"
+                            }
+                        }
+                    }
+                ]
+            }
+        },
+    "Children": [
+        {
+            "Name":"item1",
+            
+            "Title":"Dynamic Dashboards",
+            "SubTitle":"Empower coaches with comprehensive athlete dashboards. Gain real-time visibility into each athlete's progress, allowing for personalized guidance and fostering a collaborative journey towards continuous improvement.",
+            "Icon":{
+                "Name":"icon",
+                "ClassName":"IoAnalytics",
+                "Color": "rgba(55, 142, 181, 0.9)"
+            },
+            "DataAosDelay":"100"
+        },
+        {
+            "Name":"item2",
+            "Title":"Sophisticated Analysis",
+            "SubTitle":"Gain profound insights with our sophisticated analytics tools. Understand your performance metrics at a granular level, empowering you to make informed decisions for continuous improvement.",
+            "Icon":{
+                "Name":"icon",
+                "ClassName":"IoCubeOutline",
+                "Color": "rgba(55, 142, 181, 0.9)"
+            },
+            "DataAosDelay":"200"
+        },
+        {
+            "Name": "Item3",
+            "Title": "Individual Consultations",
+            "SubTitle": "Elevate your performance with personalized consultations. Access one-on-one sessions with experts for tailored guidance on your swimming journey.",
+            "ClassName": "col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0",
+            "Level1ClassName": "icon-box",
+            "Level2ClassName": "icon",
+            "DataAosDelay": "200",
+            "Icon": "IoChatbubbleEllipsesOutline"
+        },
+        {
+            "Name":"item4",
+            "Title":"AI Insights",
+            "SubTitle":"Harness the power of artificial intelligence for advanced analytics. Our platform employs cutting-edge AI algorithms to analyze your training data, providing intelligent recommendations and insights to optimize your performance strategy.",
+            "Icon":{
+                "Name":"icon",
+                "ClassName":"FaConnectdevelop",
+                "Color": "rgba(55, 142, 181, 0.9)"
+            },
+            "DataAosDelay":"400"
+        }
+    ]
+}

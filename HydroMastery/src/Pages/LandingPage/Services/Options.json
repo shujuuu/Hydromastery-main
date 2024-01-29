@@ -1,0 +1,46 @@
+{
+    "Title":"Features",
+    "Subtitle":"Explore the key features that set our swimming performance platform apart. From personalized plans to advanced analytics, we've got you covered for an unparalleled swimming experience.",
+    "RowItems":[
+        {
+            "Name":"Item1",
+            "ClassName":"col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0",
+            "Level1ClassName":"icon-box",
+            "Level2ClassName":"icon",
+            "DataAosDelay":"0",
+            "Icon":"IoCalendarNumberOutline",
+            "Title":"Workout Calendar Integration",
+            "Subtitle":"Effortlessly manage your training schedule by integrating it with your calendar. Stay on top of your sessions with ease."
+        },
+        {
+            "Name":"Item2",
+            "ClassName":"col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0",
+            "Level1ClassName":"icon-box",
+            "Level2ClassName":"icon",
+            "DataAosDelay":"100",
+            "Icon":"VscDebugDisconnect",
+            "Title":"B2B Club Integration",
+            "Subtitle":"Collaborate seamlessly with your swimming club. Enjoy exclusive features and synchronized training plans for a unified approach to excellence."
+        },
+        {
+            "Name":"Item3",
+            "ClassName":"col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0",
+            "Level1ClassName":"icon-box",
+            "Level2ClassName":"icon",
+            "DataAosDelay":"200",
+            "Icon":"IoOptionsSharp",
+            "Title":"Advanced Analytics",
+            "Subtitle":"Empower your training decisions with cutting-edge analytics. Gain insights into your performance metrics for continuous improvement."
+        },
+        {
+            "Name":"Item4",
+            "ClassName":"col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0",
+            "Level1ClassName":"icon-box",
+            "Level2ClassName":"icon",
+            "DataAosDelay":"300",
+            "Icon":"IoFitnessOutline",
+            "Title": "Import Workouts from Trackers",
+         "Subtitle": "Seamlessly integrate your activity tracker data. Import and analyze your workouts effortlessly, enhancing your training experience with precise insights from your wearable devices."
+        }
+    ]
+}

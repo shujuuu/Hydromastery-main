@@ -1,0 +1,14 @@
+[
+    {
+        "Name": "",
+        "ClassNames": ["nav-link","scrollto", "active"],
+        "Alias": "Home",
+        "Redirect":true
+    },
+    {
+        "Name": "blog",
+        "ClassNames": ["nav-link scrollto"],
+        "Alias": "Blog",
+        "Redirect":true
+    }
+]

@@ -1,0 +1,7 @@
+{
+    "Title" : "Welcome to HydroMastery",
+    "Subtitle" : {
+        "Static": "The ultimate web app for swimming ",
+        "Dynamic": ["performance", "coaching", "analytics"]
+    }
+}

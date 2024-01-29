@@ -1,0 +1,10 @@
+.activeLink {
+    color: lightblue;
+    cursor: pointer;
+}
+
+.activeLink:hover {
+    text-decoration: underline;
+}
+
+.inActiveLink {}

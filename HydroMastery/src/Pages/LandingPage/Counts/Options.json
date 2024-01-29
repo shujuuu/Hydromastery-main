@@ -1,0 +1,34 @@
+[
+    {
+        "Name":"Box1",
+        "Icon":"TbMoodHappy",
+        "CounterStart":0,
+        "CounterEnd":232,
+        "Title":"Happy swimmers",
+        "SubTitle":" so far"
+    },
+    {
+        "Name":"Box2",
+        "Icon":"FaSwimmer",
+        "CounterStart":0,
+        "CounterEnd":1350,
+        "Title":"Workouts",
+        "SubTitle":"Completed"
+    },
+    {
+        "Name":"Box3",
+        "Icon":"CiMap",
+        "CounterStart":0,
+        "CounterEnd":3,
+        "Title":"Countries",
+        "SubTitle":"our team is present"
+    },
+    {
+        "Name":"Box4",
+        "Icon":"CiClock1",
+        "CounterStart":0,
+        "CounterEnd":365,
+        "Title":"Days of Dedicated Support",
+        "SubTitle":"from our team"
+    }
+]

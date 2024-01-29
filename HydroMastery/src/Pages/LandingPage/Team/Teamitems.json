@@ -1,0 +1,32 @@
+[ 
+    {
+        "id":1,
+        "Name":"Yiannis Poulis",
+        "Title":"Chief Executive Officer",
+        "Image":"./assets/img/team/Yiannis.jpg",
+        "Facebook":"",
+        "Twitter":"",
+        "Instagram":"",
+        "LinkedIn":""
+    },
+    {
+        "id":2,
+        "Name":"Sarah Johnson",
+        "Title":"Marketing Manager",
+        "Image":"./assets/img/team/team-2.jpg",
+        "Facebook":"",
+        "Twitter":"",
+        "Instagram":"",
+        "LinkedIn":""
+    },
+    {
+        "id":3,
+        "Name":"William Anderson",
+        "Title":"Chief Techology Officer",
+        "Image":"./assets/img/team/team-3.jpg",
+        "Facebook":"",
+        "Twitter":"",
+        "Instagram":"",
+        "LinkedIn":""
+    }
+]
